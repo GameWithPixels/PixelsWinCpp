@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['data_0',['data',['../class_systemic_1_1_bluetooth_l_e_1_1_manufacturer_data.html#a2f8a282c76ced621e2cac5ae9caf0d16',1,'Systemic::BluetoothLE::ManufacturerData::data()'],['../class_systemic_1_1_bluetooth_l_e_1_1_service_data.html#a460940605a8b166a2e6200175e916c6a',1,'Systemic::BluetoothLE::ServiceData::data()'],['../class_systemic_1_1_bluetooth_l_e_1_1_advertisement_data.html#aa7cbeed1bc6b363c93ae30a882fba183',1,'Systemic::BluetoothLE::AdvertisementData::data() const']]],
+  ['datatype_1',['dataType',['../class_systemic_1_1_bluetooth_l_e_1_1_advertisement_data.html#aa65974f044063fad444a965bfe47e475',1,'Systemic::BluetoothLE::AdvertisementData']]],
+  ['deserializemessage_2',['deserializeMessage',['../_message_serialization_8h.html#ac2995ca4cd6b410e50860777de3f53b3',1,'Systemic::Pixels::Messages::Serialization::deserializeMessage(const std::vector&lt; uint8_t &gt; &amp;data)'],['../_message_serialization_8h.html#a20864490bae94e4ecd9940b9564070ad',1,'Systemic::Pixels::Messages::Serialization::deserializeMessage(const std::vector&lt; uint8_t &gt; &amp;data)']]],
+  ['designandcolor_3',['designAndColor',['../class_systemic_1_1_pixels_1_1_pixel.html#a44c23e6ca1325198b80eb8393c184bd3',1,'Systemic::Pixels::Pixel::designAndColor()'],['../class_systemic_1_1_pixels_1_1_pixel_info.html#a7eb08db22c43289174a4eded3336c8ec',1,'Systemic::Pixels::PixelInfo::designAndColor()'],['../class_systemic_1_1_pixels_1_1_scanned_pixel.html#aac41ba21958d79afbecf601c7f81b784',1,'Systemic::Pixels::ScannedPixel::designAndColor()']]],
+  ['deviceid_4',['deviceId',['../class_systemic_1_1_bluetooth_l_e_1_1_peripheral.html#a393533b2a5aa3e4901de4a990328ee46',1,'Systemic::BluetoothLE::Peripheral']]],
+  ['diefacecount_5',['dieFaceCount',['../class_systemic_1_1_pixels_1_1_pixel_info.html#a89f51eb366b930aa38b33c9271a9005d',1,'Systemic::Pixels::PixelInfo']]],
+  ['dietype_6',['dieType',['../class_systemic_1_1_pixels_1_1_pixel_info.html#a15f23777e33f3abfc8dbdcfc03d712bb',1,'Systemic::Pixels::PixelInfo']]],
+  ['disconnect_7',['disconnect',['../class_systemic_1_1_bluetooth_l_e_1_1_peripheral.html#aa52326834f832e720b50f503f507f920',1,'Systemic::BluetoothLE::Peripheral::disconnect()'],['../class_systemic_1_1_pixels_1_1_pixel.html#af11d6f5a5f0ca5dd2f5ced46dcff2a40',1,'Systemic::Pixels::Pixel::disconnect()']]]
+];

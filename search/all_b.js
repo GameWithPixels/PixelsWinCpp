@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['name_0',['name',['../struct_systemic_1_1_pixels_1_1_scanned_pixel_data.html#a7db473fcc2cf05a92dfbea5abf2c2150',1,'Systemic::Pixels::ScannedPixelData::name()'],['../class_systemic_1_1_bluetooth_l_e_1_1_peripheral.html#a02a75adad8419fefefd7d88045dc1453',1,'Systemic::BluetoothLE::Peripheral::name()'],['../class_systemic_1_1_bluetooth_l_e_1_1_scanned_peripheral.html#aa292817942a73b2293b5f42cd10e45a3',1,'Systemic::BluetoothLE::ScannedPeripheral::name()'],['../class_systemic_1_1_pixels_1_1_pixel.html#a105e46945285a044131e392a8ac12381',1,'Systemic::Pixels::Pixel::name()'],['../class_systemic_1_1_pixels_1_1_pixel_info.html#a493ad1c84df722b2599bce78999d9068',1,'Systemic::Pixels::PixelInfo::name()'],['../class_systemic_1_1_pixels_1_1_scanned_pixel.html#a6b99a3a81eee365270c8c2c99cb34691',1,'Systemic::Pixels::ScannedPixel::name()']]],
+  ['notify_1',['Notify',['../namespace_systemic_1_1_bluetooth_l_e.html#acd6a573cf3ebbf3fbc154ddf408723f1a8698be325aa86621bc2179bb314a15d6',1,'Systemic::BluetoothLE']]],
+  ['notifycharacteristic_2',['notifyCharacteristic',['../namespace_systemic_1_1_pixels_1_1_pixel_ble_uuids.html#a2a541add7f38a217ace96676b73e4398',1,'Systemic::Pixels::PixelBleUuids']]],
+  ['notifyencryptionrequired_3',['NotifyEncryptionRequired',['../namespace_systemic_1_1_bluetooth_l_e.html#acd6a573cf3ebbf3fbc154ddf408723f1a763650ad7021bda8ea49f9ed3c291eaa',1,'Systemic::BluetoothLE']]],
+  ['notsupported_4',['NotSupported',['../namespace_systemic_1_1_bluetooth_l_e.html#ac1603adad69e83af9fb9eb2c57761449a9ed2d871602556951e39f3cebd08d6cb',1,'Systemic::BluetoothLE::NotSupported()'],['../namespace_systemic_1_1_bluetooth_l_e.html#afe5f28749f3cd25418c6ca2f593376f6a9ed2d871602556951e39f3cebd08d6cb',1,'Systemic::BluetoothLE::NotSupported()']]]
+];

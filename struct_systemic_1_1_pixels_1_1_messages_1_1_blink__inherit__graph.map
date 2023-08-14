@@ -1,0 +1,4 @@
+<map id="Systemic::Pixels::Messages::Blink" name="Systemic::Pixels::Messages::Blink">
+<area shape="rect" id="node1" title="Message send to a Pixel to have it blink its LEDs." alt="" coords="5,93,188,133"/>
+<area shape="rect" id="node2" href="$struct_systemic_1_1_pixels_1_1_messages_1_1_pixel_message.html" title=" " alt="" coords="5,5,188,45"/>
+</map>

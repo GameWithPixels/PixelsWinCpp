@@ -1,0 +1,4 @@
+<map id="Systemic::Pixels::Messages::Rssi" name="Systemic::Pixels::Messages::Rssi">
+<area shape="rect" id="node1" title="Message send by a Pixel to notify of its measured RSSI." alt="" coords="5,93,188,133"/>
+<area shape="rect" id="node2" href="$struct_systemic_1_1_pixels_1_1_messages_1_1_pixel_message.html" title=" " alt="" coords="5,5,188,45"/>
+</map>

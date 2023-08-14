@@ -1,0 +1,5 @@
+<map id="Systemic::Pixels::PixelInfo" name="Systemic::Pixels::PixelInfo">
+<area shape="rect" id="node1" title="Common accessible values between Pixel advertised data and a connected Pixel." alt="" coords="87,5,261,31"/>
+<area shape="rect" id="node2" href="$class_systemic_1_1_pixels_1_1_pixel.html" title="Represents a Pixels die." alt="" coords="5,86,156,111"/>
+<area shape="rect" id="node3" href="$class_systemic_1_1_pixels_1_1_scanned_pixel.html" title="Data periodically emitted by a Pixel when not connected to a device." alt="" coords="180,79,355,119"/>
+</map>

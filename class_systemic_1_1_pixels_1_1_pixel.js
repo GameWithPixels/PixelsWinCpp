@@ -1,0 +1,38 @@
+var class_systemic_1_1_pixels_1_1_pixel =
+[
+    [ "ConnectResult", "class_systemic_1_1_pixels_1_1_pixel.html#ac7c58e7a2b79a257339377490948f9a6", [
+      [ "Success", "class_systemic_1_1_pixels_1_1_pixel.html#ac7c58e7a2b79a257339377490948f9a6a505a83f220c02df2f85c3810cd9ceb38", null ],
+      [ "ConnectionFailed", "class_systemic_1_1_pixels_1_1_pixel.html#ac7c58e7a2b79a257339377490948f9a6aaf98071f760be899f4fcf1d53a29ba17", null ],
+      [ "Cancelled", "class_systemic_1_1_pixels_1_1_pixel.html#ac7c58e7a2b79a257339377490948f9a6aa149e85a44aeec9140e92733d9ed694e", null ],
+      [ "IdentificationMismatch", "class_systemic_1_1_pixels_1_1_pixel.html#ac7c58e7a2b79a257339377490948f9a6a2337bc3170ba2f924ad5945e3a4b0a68", null ],
+      [ "IdentificationTimeout", "class_systemic_1_1_pixels_1_1_pixel.html#ac7c58e7a2b79a257339377490948f9a6a37e96cedfd5c65ad7ffb6abe9240f696", null ],
+      [ "SubscriptionError", "class_systemic_1_1_pixels_1_1_pixel.html#ac7c58e7a2b79a257339377490948f9a6a06b6ce8dc6cc3a45db07fcc63463b404", null ]
+    ] ],
+    [ "~Pixel", "class_systemic_1_1_pixels_1_1_pixel.html#aab3f669ff19bf0dc900adf785ca54447", null ],
+    [ "address", "class_systemic_1_1_pixels_1_1_pixel.html#a2c3e86ec9c89c58fd4750e6e760dad80", null ],
+    [ "batteryLevel", "class_systemic_1_1_pixels_1_1_pixel.html#aae53fa341a848b17856fbd8c93bd0f0e", null ],
+    [ "blinkAsync", "class_systemic_1_1_pixels_1_1_pixel.html#aea1772995363f6b28c3a58ddbbd14875", null ],
+    [ "connectAsync", "class_systemic_1_1_pixels_1_1_pixel.html#ad9396960c8fbdd3a143d6d13d9ae3b18", null ],
+    [ "create", "class_systemic_1_1_pixels_1_1_pixel.html#a805abfdd3e950846a458839d40d98f5c", null ],
+    [ "create", "class_systemic_1_1_pixels_1_1_pixel.html#aedc5a4dc77be702d62ddb6d453a5098a", null ],
+    [ "currentFace", "class_systemic_1_1_pixels_1_1_pixel.html#aa20f5510b9e95b9452d09a19e6a17f9c", null ],
+    [ "designAndColor", "class_systemic_1_1_pixels_1_1_pixel.html#a44c23e6ca1325198b80eb8393c184bd3", null ],
+    [ "disconnect", "class_systemic_1_1_pixels_1_1_pixel.html#af11d6f5a5f0ca5dd2f5ced46dcff2a40", null ],
+    [ "firmwareDate", "class_systemic_1_1_pixels_1_1_pixel.html#a36bc96e95b054760e4c8b04eb04ef026", null ],
+    [ "isCharging", "class_systemic_1_1_pixels_1_1_pixel.html#ab4dd4365a00c24915cc8cbf1d2c6116b", null ],
+    [ "isReady", "class_systemic_1_1_pixels_1_1_pixel.html#a886c123dc8744416f085aeffe8fba2e5", null ],
+    [ "ledCount", "class_systemic_1_1_pixels_1_1_pixel.html#addafef384f523b546dedb8d2248d4785", null ],
+    [ "name", "class_systemic_1_1_pixels_1_1_pixel.html#a105e46945285a044131e392a8ac12381", null ],
+    [ "pixelId", "class_systemic_1_1_pixels_1_1_pixel.html#a9ccb969aa74cc5140e2840314ce276f3", null ],
+    [ "reportRssiAsync", "class_systemic_1_1_pixels_1_1_pixel.html#a8be5c1df7fefdc8a83b67a0e4e50826b", null ],
+    [ "reportRssiAsync", "class_systemic_1_1_pixels_1_1_pixel.html#aaf4951a75e7e867503cfaf8772810d2a", null ],
+    [ "rollState", "class_systemic_1_1_pixels_1_1_pixel.html#ad779c44eb41cc60676b0671bd1b2171a", null ],
+    [ "rssi", "class_systemic_1_1_pixels_1_1_pixel.html#a27be75d30744fcdbc8ef2bf2d279c8aa", null ],
+    [ "sendAndWaitForResponseAsync", "class_systemic_1_1_pixels_1_1_pixel.html#af68c055d794dd7b863966dfad1929642", null ],
+    [ "sendAndWaitForResponseAsync", "class_systemic_1_1_pixels_1_1_pixel.html#a441cba0f2731c3a0b312cfa7e3c20e7e", null ],
+    [ "sendMessageAsync", "class_systemic_1_1_pixels_1_1_pixel.html#a794380bcc2a041fbc45f7499562ba596", null ],
+    [ "sendMessageAsync", "class_systemic_1_1_pixels_1_1_pixel.html#ad5544fc379c57fd95814aff1358c5374", null ],
+    [ "status", "class_systemic_1_1_pixels_1_1_pixel.html#afa99a9b2c668a32095eda64af0fa2055", null ],
+    [ "systemId", "class_systemic_1_1_pixels_1_1_pixel.html#adfac542bc1e42e10719ad61d5cabec35", null ],
+    [ "turnOffAsync", "class_systemic_1_1_pixels_1_1_pixel.html#ad5aa8f212867dd6975dc3038dbf20303", null ]
+];
