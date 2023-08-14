@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Systemic">
+      <UniqueIdentifier>{b9c90136-9a2e-447c-b1e9-c09bdec27d60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Systemic\BluetoothLE">
+      <UniqueIdentifier>{9b9bce3a-4698-4849-8e4b-708b46f4ad69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Systemic\Internal">
+      <UniqueIdentifier>{0d4e9bd7-c27b-47bf-b12d-839e5c1d7ff1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Systemic\Pixels">
+      <UniqueIdentifier>{5e161244-01f1-4e91-bf84-4fcc5f195186}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Systemic">
+      <UniqueIdentifier>{9443b4c1-3000-49b5-9749-c6517129a066}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\ComHelper.h">
+      <Filter>Header Files\Systemic</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\BluetoothLE\BleTypes.h">
+      <Filter>Header Files\Systemic\BluetoothLE</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\BluetoothLE\BluetoothLE.h">
+      <Filter>Header Files\Systemic\BluetoothLE</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\BluetoothLE\Characteristic.h">
+      <Filter>Header Files\Systemic\BluetoothLE</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\BluetoothLE\Peripheral.h">
+      <Filter>Header Files\Systemic\BluetoothLE</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\BluetoothLE\ScannedPeripheral.h">
+      <Filter>Header Files\Systemic\BluetoothLE</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\BluetoothLE\Scanner.h">
+      <Filter>Header Files\Systemic\BluetoothLE</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\BluetoothLE\Service.h">
+      <Filter>Header Files\Systemic\BluetoothLE</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\Internal\GuardedList.h">
+      <Filter>Header Files\Systemic\Internal</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\Internal\Logger.h">
+      <Filter>Header Files\Systemic\Internal</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\Internal\Utils.h">
+      <Filter>Header Files\Systemic\Internal</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\Pixels\Helpers.h">
+      <Filter>Header Files\Systemic\Pixels</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\Pixels\Messages.h">
+      <Filter>Header Files\Systemic\Pixels</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\Pixels\MessageSerialization.h">
+      <Filter>Header Files\Systemic\Pixels</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\Pixels\Pixel.h">
+      <Filter>Header Files\Systemic\Pixels</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\Pixels\PixelBleUuids.h">
+      <Filter>Header Files\Systemic\Pixels</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\Pixels\PixelInfo.h">
+      <Filter>Header Files\Systemic\Pixels</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\Pixels\PixelScanner.h">
+      <Filter>Header Files\Systemic\Pixels</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\Pixels\PixelTypes.h">
+      <Filter>Header Files\Systemic\Pixels</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemic\Pixels\ScannedPixel.h">
+      <Filter>Header Files\Systemic\Pixels</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BluetoothLE.cpp">
+      <Filter>Source Files\Systemic</Filter>
+    </ClCompile>
+    <ClCompile Include="ComHelper.cpp">
+      <Filter>Source Files\Systemic</Filter>
+    </ClCompile>
+    <ClCompile Include="Peripheral.cpp">
+      <Filter>Source Files\Systemic</Filter>
+    </ClCompile>
+    <ClCompile Include="Pixel.cpp">
+      <Filter>Source Files\Systemic</Filter>
+    </ClCompile>
+    <ClCompile Include="PixelBleUuids.cpp">
+      <Filter>Source Files\Systemic</Filter>
+    </ClCompile>
+    <ClCompile Include="PixelInfo.cpp">
+      <Filter>Source Files\Systemic</Filter>
+    </ClCompile>
+    <ClCompile Include="PixelScanner.cpp">
+      <Filter>Source Files\Systemic</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="PropertySheet.props" />
+    <None Include="packages.config" />
+    <None Include="README.md" />
+  </ItemGroup>
+</Project>
