@@ -1,4 +1,4 @@
-<map id="Systemic/BluetoothLE/bletypes.h" name="Systemic/BluetoothLE/bletypes.h">
+<map id="Systemic/BluetoothLE/BleTypes.h" name="Systemic/BluetoothLE/BleTypes.h">
 <area shape="rect" id="node1" title="Common types used across the Systemic::BluetoothLE namespace." alt="" coords="236,5,387,45"/>
 <area shape="rect" id="node2" href="$_peripheral_8h.html" title="Definition of the Peripheral class." alt="" coords="5,93,156,133"/>
 <area shape="rect" id="node3" href="$_scanned_peripheral_8h.html" title="Definition of the ManufacturerData, AdvertisementData and DiscoveredPeripheral classes." alt="" coords="180,93,331,133"/>

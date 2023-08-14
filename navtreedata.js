@@ -61,7 +61,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_bluetooth_l_e_8h.html",
+"_ble_types_8h.html",
 "class_systemic_1_1_bluetooth_l_e_1_1_peripheral.html#afac92a7222095bfa982685ba9f690327"
 ];
 

@@ -1,4 +1,4 @@
-<map id="Systemic/BluetoothLE/bletypes.h" name="Systemic/BluetoothLE/bletypes.h">
+<map id="Systemic/BluetoothLE/BleTypes.h" name="Systemic/BluetoothLE/BleTypes.h">
 <area shape="rect" id="node1" title="Common types used across the Systemic::BluetoothLE namespace." alt="" coords="5,5,156,45"/>
 <area shape="rect" id="node2" title=" " alt="" coords="50,93,111,119"/>
 </map>

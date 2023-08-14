@@ -8,7 +8,7 @@ var searchData=
   ['batterystate_5',['batteryState',['../struct_systemic_1_1_pixels_1_1_messages_1_1_i_am_a_die.html#a5dcc3264a2896817d5ea89a049a6bd96',1,'Systemic::Pixels::Messages::IAmADie']]],
   ['bleadapterstate_6',['BleAdapterState',['../namespace_systemic_1_1_bluetooth_l_e.html#a2ea52dd2eb72ece14d6b2289dea530a9',1,'Systemic::BluetoothLE']]],
   ['blerequeststatus_7',['BleRequestStatus',['../namespace_systemic_1_1_bluetooth_l_e.html#ac1603adad69e83af9fb9eb2c57761449',1,'Systemic::BluetoothLE']]],
-  ['bletypes_2eh_8',['bletypes.h',['../bletypes_8h.html',1,'']]],
+  ['bletypes_2eh_8',['BleTypes.h',['../_ble_types_8h.html',1,'']]],
   ['blink_9',['Blink',['../struct_systemic_1_1_pixels_1_1_messages_1_1_blink.html#a329fa34414c2cbe29fc4c4da983a3309',1,'Systemic::Pixels::Messages::Blink::Blink()'],['../struct_systemic_1_1_pixels_1_1_messages_1_1_blink.html',1,'Systemic::Pixels::Messages::Blink']]],
   ['blinkasync_10',['blinkAsync',['../class_systemic_1_1_pixels_1_1_pixel.html#aea1772995363f6b28c3a58ddbbd14875',1,'Systemic::Pixels::Pixel']]],
   ['bluetooth_5faddress_5ft_11',['bluetooth_address_t',['../namespace_systemic_1_1_bluetooth_l_e.html#ab4c3d4a45c42df83461f2198f5c35773',1,'Systemic::BluetoothLE::bluetooth_address_t()'],['../namespace_systemic_1_1_pixels.html#ae2a039067adb108c51b610547cdbfe12',1,'Systemic::Pixels::bluetooth_address_t()']]],
