@@ -1,4 +1,4 @@
-# C++ Pixels Library For Windows
+# C++ Pixels Dice Library For Windows
 
 This is the C++ Pixels library for Windows.
 Windows Runtime [WinRT](https://github.com/microsoft/cppwinrt) APIs are used
@@ -21,16 +21,18 @@ on GitHub if you're having any issue.
 
 ## Overview
 
-This is the initial release of this C++ library for Windows.
+This is the initial release of our Pixels dice C++ library for Windows.
 
-All the library source code is currently included in the example app.
+Please not that all the library source code is currently included in the example app.
 
-As such you will need to either copy the code in your own project or modify
-this project to generate a library with the configuration your project requires.
+As such you will need to either copy the library code in your own project or modify
+this project to generate a library with the configuration settings that your project
+requires.
 
 There are many ways to configure a Visual Studio C++ library project and we didn't
 want to pick one that is unsuitable for our users.
-So we decided to postpone that decision and wait for community feedback.
+So we decided to postpone that decision until we get some community feedback that will
+inform us of the most popular configuration needs.
 
 Thank you for your understanding!
 
