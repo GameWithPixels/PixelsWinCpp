@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['c_2b_2b_20pixels_20library_20for_20windows_0',['C++ Pixels Library For Windows',['../index.html',1,'']]],
+  ['c_2b_2b_20pixels_20dice_20library_20for_20windows_0',['C++ Pixels Dice Library For Windows',['../index.html',1,'']]],
   ['canceled_1',['Canceled',['../namespace_systemic_1_1_bluetooth_l_e.html#afe5f28749f3cd25418c6ca2f593376f6a0e22fe7d45f8e5632a4abf369b24e29c',1,'Systemic::BluetoothLE::Canceled()'],['../namespace_systemic_1_1_bluetooth_l_e.html#ac1603adad69e83af9fb9eb2c57761449a0e22fe7d45f8e5632a4abf369b24e29c',1,'Systemic::BluetoothLE::Canceled()']]],
   ['cancelled_2',['Cancelled',['../class_systemic_1_1_pixels_1_1_pixel.html#ac7c58e7a2b79a257339377490948f9a6aa149e85a44aeec9140e92733d9ed694e',1,'Systemic::Pixels::Pixel']]],
   ['cannotify_3',['canNotify',['../class_systemic_1_1_bluetooth_l_e_1_1_characteristic.html#ad8d1b0d9e43a088d4f185af441a2e121',1,'Systemic::BluetoothLE::Characteristic']]],

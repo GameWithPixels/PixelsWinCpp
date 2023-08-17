@@ -25,10 +25,12 @@
 var NAVTREE =
 [
   [ "C++ Pixels Library For Windows", "index.html", [
-    [ "Foreword", "index.html#autotoc_md1", null ],
-    [ "Overview", "index.html#autotoc_md2", null ],
-    [ "Documentation", "index.html#autotoc_md3", null ],
-    [ "License", "index.html#autotoc_md4", null ],
+    [ "C++ Pixels Dice Library For Windows", "index.html", [
+      [ "Foreword", "index.html#autotoc_md1", null ],
+      [ "Overview", "index.html#autotoc_md2", null ],
+      [ "Documentation", "index.html#autotoc_md3", null ],
+      [ "License", "index.html#autotoc_md4", null ]
+    ] ],
     [ "Modules", "modules.html", "modules" ],
     [ "Packages", "namespaces.html", [
       [ "Package List", "namespaces.html", null ],
